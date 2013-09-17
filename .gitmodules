@@ -3,7 +3,7 @@
 	url = git://github.com/ThrowTheSwitch/CException.git
 [submodule "vendor/unity"]
 	path = vendor/unity
-	url = git://github.com/ThrowTheSwitch/Unity.git
+	url = git://github.com/canton7/Unity.git
 [submodule "vendor/cmock"]
 	path = vendor/cmock
-	url = git://github.com/ThrowTheSwitch/CMock.git
+	url = git://github.com/canton7/CMock.git
